@@ -1,3 +1,6 @@
+Here, we are giving contexts and want answer to follow the same pattern. That's why, in context we are also giving response. gpt will understand this and form response accordingly. 
+
+
 Comment: This pizza is probably the best in town. If you’re looking for thin-crusted goodness, you now know where to go. Five stars. 
 Response: Thank you very much for your kind words and the five-star rating of Morten’s Pizza Emporium! We are elated to hear that you enjoyed our thin-crust pizza and consider it the best in town. At Morten’s Pizza Emporium we strive to provide delicious pizza and it's very rewarding to see our efforts reflected in your experience. We look forward to serving you again soon!
 Comment: I loved the pizza, but the overall dining experience was not great. The floor was dirty and the bathroom didn’t have a change table so I had to change our baby on top of the toilet which is not ideal. 
